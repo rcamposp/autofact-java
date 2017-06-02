@@ -1,0 +1,12 @@
+user,no,testa2@autofact.cl,1496442150
+user,si,testa2@autofact.cl,1496443150
+user,si,testa2@autofact.cl,1496444150
+user,si,testa2@autofact.cl,1496445150
+user,si,testa2@autofact.cl,1496446150
+user,no,testa2@autofact.cl,1496447150
+user,tal vez,testa2@autofact.cl,1496442150
+user,no,testa2@autofact.cl,1496448150
+user,no,testa2@autofact.cl,1496449150
+user,no,testa2@autofact.cl,1496412150
+user,no,testa2@autofact.cl,1496422150
+user,no,testa2@autofact.cl,1496432150
